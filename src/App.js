@@ -16,16 +16,16 @@ function App() {
                     </g>
                 </svg>
 
-                <h1 class="text-white text-2xl">iniciar sesion en twitter</h1>
+                <h1 class="text-white text-2xl">Chwitter</h1>
                 <input class="w-full p-2 bg-gray-900 rounded-md  border border-gray-700 focus:border-blue-700"
-                    placeholder="Correo" type="email" name="correo" id=""></input>
+                    placeholder="Username" type="email" name="correo" id=""></input>
                 <input class="w-full p-2 bg-gray-900 rounded-md border border-gray-700 " placeholder="password*"
                     type="password" name="correo" id=""></input>
                 <input class="w-full p-2 bg-gray-50 rounded-full font-bold text-gray-900 border border-gray-700 "
                     type="submit" name="correo" id=""></input>
 
-                    <p>no tienes cuenta? 
-                        <a class="font-semibold text-sky-700" href="">Registrate</a> </p>
+                    <p>no account? 
+                        <a class="font-semibold text-sky-700" href="#">Register</a> </p>
             </div>
 
 
