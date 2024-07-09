@@ -23,9 +23,6 @@ function App() {
                     type="password" name="correo" id=""></input>
                 <input class="w-full p-2 bg-gray-50 rounded-full font-bold text-gray-900 border border-gray-700 "
                     type="submit" name="correo" id=""></input>
-
-                    <p>no account? 
-                        <a class="font-semibold text-sky-700" href="">Register</a> </p>
             </div>
 
 
