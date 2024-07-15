@@ -25,7 +25,7 @@ function App() {
                     type="submit" name="correo" id=""></input>
 
                     <p>no account? 
-                        <a class="font-semibold text-sky-700" href="#">Registrate</a> </p>
+                        <a class="font-semibold text-sky-700">Registrate</a> </p>
             </div>
 
 
